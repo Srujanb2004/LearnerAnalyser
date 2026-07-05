@@ -1,6 +1,6 @@
 # Learning Analyzer
 
-A Machine Learning minor project (2026) that analyzes student learning behavior and
+A Machine Learning minor project that analyzes student learning behavior and
 predicts whether a student will answer a given coding question correctly.
 
 ## Overview
